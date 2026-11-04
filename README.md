@@ -1,1 +1,1 @@
-# Analysebot
+This bot only reads public posts and comments from finance and crypto subreddits to measure market sentiment. It does not post, vote, or access private data. All requests stay within Reddit's rate limits.# Analysebot
